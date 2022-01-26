@@ -53,8 +53,8 @@ let emailIsValid = (email) => {
 const sendEmail = () => {
     Email.send({
         Host: "smtp.wp.pl",
-        Username: "paweleq200@wp.pl",
-        Password: "Anakonda!23",
+        Username: "xxxx",
+        Password: "xxxx",
         To: 'venuriaots@gmail.com',
         From: 'paweleq200@wp.pl',
         Subject: "Nowy email ze strony www.jubilerinfinity.pl",
